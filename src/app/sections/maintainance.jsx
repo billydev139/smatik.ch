@@ -53,6 +53,17 @@ const MaintenancePage = () => {
       className="h-6 w-6 filter-orange"
     />
   </button>
+          
+  <button
+    className="p-2 transition-transform transform hover:scale-110"
+    onClick={() => window.open("https://www.instagram.com/smatikgmbh/", "_blank")}
+  >
+    <img
+      src="/Instagram.svg"
+      alt="Twitter"
+      className="h-6 w-6 filter-orange"
+    />
+  </button>
   <style jsx>{`
     .filter-orange {
       filter: brightness(0) saturate(100%) invert(52%) sepia(66%) saturate(2012%) hue-rotate(8deg) brightness(97%) contrast(102%);
