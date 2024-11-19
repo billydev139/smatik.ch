@@ -25,7 +25,7 @@ const MaintenancePage = () => {
         <div className="flex justify-center mt-6 space-x-4">
   <button
     className="p-2 transition-transform transform hover:scale-110"
-    onClick={() => window.open("https://www.linkedin.com", "_blank")}
+    onClick={() => window.open("https://www.linkedin.com/company/smatik-gmbh", "_blank")}
   >
     <img
       src="/Linkedin.svg"
@@ -35,7 +35,7 @@ const MaintenancePage = () => {
   </button>
   <button
     className="p-2 transition-transform transform hover:scale-110"
-    onClick={() => window.open("https://www.facebook.com", "_blank")}
+    onClick={() => window.open("https://www.facebook.com/profile.php?id=61569088738583", "_blank")}
   >
     <img
       src="/Facebook.svg"
@@ -45,7 +45,7 @@ const MaintenancePage = () => {
   </button>
   <button
     className="p-2 transition-transform transform hover:scale-110"
-    onClick={() => window.open("https://www.twitter.com", "_blank")}
+    onClick={() => window.open("https://x.com/smatikgmbh", "_blank")}
   >
     <img
       src="/Twitter X.svg"
