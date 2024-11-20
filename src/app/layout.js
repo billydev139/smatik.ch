@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
         <meta name="description" content={metadata.description} />
 
         {/* Favicon */}
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="icon" type="image/svg+xml" href="/favicon1.svg" />
         {/* <link rel="icon" href="/favicon.ico" type="image/x-icon" /> */}
         <title>{metadata.title}</title>
       </head>
