@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Smatik | maintainance",
-  description: "App is under development",
+  title: "Smatik",
+  description: "App is under developement",
 };
 
 export default function RootLayout({ children }) {
